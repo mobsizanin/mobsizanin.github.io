@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_tabs/about.md",
+                "file": "_posts/MSSQL}.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "MSSQL}"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_tabs/about.md",
+                "file": "_posts/MSSQL}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for about"
+              "title": "Backlinks for MSSQL}"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_tabs/about.md",
+                "file": "_posts/MSSQL}.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from about"
+              "title": "Outgoing links from MSSQL}"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_tabs/about.md",
+                "file": "_posts/MSSQL}.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of about"
+              "title": "Outline of MSSQL}"
             }
           },
           {
@@ -181,10 +181,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_tabs/about.md"
+                "file": "_posts/MSSQL}.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for about"
+              "title": "File properties for MSSQL}"
             }
           }
         ],
@@ -210,6 +210,12 @@
   },
   "active": "a464705322c7fb99",
   "lastOpenFiles": [
+    "_tabs/about.md",
+    "_tabs/archives.md",
+    "_tabs/categories.md",
+    "_tabs/tags.md",
+    "_posts/MSSQL}.md",
+    "_posts/2025-08-10-Server구축.md",
     "assets/img/mobsizanin.png",
     "assets/img/favicons/mstile-150x150.png",
     "assets/img/favicons/android-chrome-192x192.png",
@@ -222,8 +228,6 @@
     "docs/CONTRIBUTING.md",
     "docs/SECURITY.md",
     "README.md",
-    "_posts/2025-06-07-first-post.md",
-    "_posts/2025-08-10-Server구축.md",
     "_images"
   ]
 }

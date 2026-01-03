@@ -7,7 +7,7 @@ order: 4
 Hi, I'm **Mobsizanin**,
 
 ### 🔍 What I Do
-- Cyber Security Solution Engineering (Deployment & Troubleshooting)
+- Cyber Security Solution Engineering (Deployment & Maintenance)
 	- EDLP
 
 ### 🧠 Recently Interested In
