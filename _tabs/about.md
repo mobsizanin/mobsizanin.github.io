@@ -7,17 +7,18 @@ order: 4
 Hi, I'm **Mobsizanin**,
 
 ### 🔍 What I Do
-- EDLP Solution Engineering (Deployment & Maintenance)
-- Windows Event Log Analysis
-- Server and Agent Deploy & Troubleshooting
+- Cyber Security Solution Engineering (Deployment & Troubleshooting)
+	- EDLP
 
 ### 🧠 Recently Interested In
-- Automated forensic log pipelines
-- MITRE ATT&CK mapping in SIEM tools
-- SOAR playbook design patterns
+- Development of vulnerability diagnosis solutions
 
 ### 🛠 Technical Keywords
-`EDLP`, `SIEM(Splunk)`, `MSSQL`, `SQL`, `Docker`, `Ansible`, `Terraform`, `Windows Server`, `Linux`, `Python`
+- `EDLP`, `SIEM(Splunk)`
+- `Docker`, `Ansible`, `Terraform`
+- `MSSQL`, `SQL`
+- `Python`, `C (Little)`
+- `Windows`, `Linux`, `MacOS`
 
 ### 📫 Contact
 - E-mail: mobsizanin@gmail.com
