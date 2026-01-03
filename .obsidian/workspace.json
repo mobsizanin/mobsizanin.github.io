@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/MSSQL}.md",
+                "file": "_posts/MSSQL_서버_메모리_부족_문제.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MSSQL}"
+              "title": "MSSQL_서버_메모리_부족_문제"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/MSSQL}.md",
+                "file": "_posts/MSSQL_서버_메모리_부족_문제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MSSQL}"
+              "title": "Backlinks for MSSQL_서버_메모리_부족_문제"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/MSSQL}.md",
+                "file": "_posts/MSSQL_서버_메모리_부족_문제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from MSSQL}"
+              "title": "Outgoing links from MSSQL_서버_메모리_부족_문제"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/MSSQL}.md",
+                "file": "_posts/MSSQL_서버_메모리_부족_문제.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MSSQL}"
+              "title": "Outline of MSSQL_서버_메모리_부족_문제"
             }
           },
           {
@@ -181,10 +181,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_posts/MSSQL}.md"
+                "file": "_posts/MSSQL_서버_메모리_부족_문제.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for MSSQL}"
+              "title": "File properties for MSSQL_서버_메모리_부족_문제"
             }
           }
         ],
@@ -214,7 +214,7 @@
     "_tabs/archives.md",
     "_tabs/categories.md",
     "_tabs/tags.md",
-    "_posts/MSSQL}.md",
+    "_posts/MSSQL_서버_메모리_부족_문제.md",
     "_posts/2025-08-10-Server구축.md",
     "assets/img/mobsizanin.png",
     "assets/img/favicons/mstile-150x150.png",

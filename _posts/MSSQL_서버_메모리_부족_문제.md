@@ -1,10 +1,12 @@
 ---
-title: 일단 만들었으니까 뭐라도 써봄
+title: "[MSSQL] 서버 메모리 부족 문제"
 date: 2026-01-04
 categories:
   - MSSQL
 tags:
   - IT기술
+  - MSSQL
+  - 메모리
 ---
 
 MSSQL
