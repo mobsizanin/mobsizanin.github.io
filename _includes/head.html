@@ -125,12 +125,6 @@
   {% include metadata-hook.html %}
 
   
-  <!-- Giscus CSP 설정 추가 -->
-  {% if site.comments.provider == 'giscus' %}
-  <meta http-equiv="Content-Security-Policy" 
-        content="frame-src 'self' https://giscus.app; 
-                 script-src 'self' 'unsafe-inline' 'unsafe-eval' https://giscus.app https://cdn.jsdelivr.net; 
-                 style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net;">
-  {% endif %}
+
   
 </head>
