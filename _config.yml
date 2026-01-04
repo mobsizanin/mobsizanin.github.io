@@ -119,10 +119,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: mobsizanin/mobsizanin.github.io
-    repo_id: R_kgDOO3k9KA
+    repo: "mobsizanin/mobsizanin.github.io"
+    repo_id: "R_kgDOO3k9KA"
     category: Announcements
-    category_id: DIC_kwDOO3k9KM4C0jdp
+    category_id: "DIC_kwDOO3k9KM4C0jdp"
     mapping: pathname
     strict: 0
     input_position: bottom
