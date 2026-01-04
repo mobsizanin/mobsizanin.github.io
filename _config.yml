@@ -225,10 +225,20 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
+# _config.yml
 comments:
-  active: ‘giscus’
+  provider: giscus  # 또는 utterances, disqus 등
+  
+  # Giscus options
   giscus:
-    repo: data-repo
-    repo_id: data-repo-id
-    category: data-category
-    category_id: data-category-id
+    repo: mobsizanin/mobsizanin.github.io
+    repo_id: [REPO-ID]  # 아래에서 얻을 값
+    category: General
+    category_id: [CATEGORY-ID]  # 아래에서 얻을 값
+    mapping: pathname
+    strict: 0
+    reactions_enabled: 1
+    emit_metadata: 0
+    input_position: bottom
+    theme: preferred_color_scheme
+    lang: en
