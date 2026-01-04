@@ -224,3 +224,11 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+comments:
+  active: ‘giscus’
+  giscus:
+    repo: data-repo
+    repo_id: data-repo-id
+    category: data-category
+    category_id: data-category-id
