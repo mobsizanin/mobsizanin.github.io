@@ -4,23 +4,12 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hi, I'm **Mobsizanin**,
+# Hi, I'm **Mobsizanin**, Security Engineer 👋
 
-### 🔍 What I Do
-- Cyber Security Solution Engineering (Deployment & Maintenance)
-	- EDLP
+Security problems are often caused more by repeated mistakes than by new types of attacks.
 
-### 🧠 Recently Interested In
-- Development of vulnerability diagnosis solutions
+This blog is not only about vulnerabilities, attack techniques, or security tools themselves. It focuses on why the same problems keep occurring, how they can be prevented, and how similar improvements can be applied more easily across different organizations.
 
-### 🛠 Technical Keywords
-- `EDLP`, `SIEM(Splunk)`
-- `Docker`, `Ansible`, `Terraform`
-- `MSSQL`, `SQL`
-- `Python`, `C (Little)`
-- `Windows`, `Linux`, `MacOS`
+Problem discovery → Structuring → Automation → Generalization
 
-### 📫 Contact
-- E-mail: mobsizanin@gmail.com
-- GitHub: [@mobsizanin](https://github.com/mobsizanin)
-- Blog: [mobsizanin.github.io](https://mobsizanin.github.io)
+This space is a record of observations and experiments aimed at building a more secure digital environment.
