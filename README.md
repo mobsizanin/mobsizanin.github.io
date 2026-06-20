@@ -1,40 +1,11 @@
 https://mobsizanin.github.io/
 
 # Hi, I’m a Security Engineer 👋
-I work in security operations and focus on understanding real-world security problems in a structured way.
-My interest is not limited to solving individual issues, but in recognizing patterns, organizing them, and thinking about how they can be improved in a more scalable and repeatable way.
 
----
+Security problems are often caused more by repeated mistakes than by new types of attacks.
 
-## How I approach security
-I tend to think in terms of structure rather than isolated problems:
-- Identify recurring security issues  
-- Understand why they happen  
-- Organize them into patterns  
-- Explore ways to reduce or prevent them  
-- Think about how they could be applied more broadly  
+This blog is not only about vulnerabilities, attack techniques, or security tools themselves. It focuses on why the same problems keep occurring, how they can be prevented, and how similar improvements can be applied more easily across different organizations.
 
----
+Problem discovery → Structuring → Automation → Generalization
 
-## What I’m currently focusing on
-- Security operations experience and learning
-- Observing real-world security problems in practice
-- Building better ways to understand and structure security issues
-
----
-
-## Guiding idea
-> Security problems are rarely unique — the challenge is how we structure and prevent them at scale.
-
----
-
-## Currently exploring
-
-- Why security issues repeat across organizations  
-- How security risks can be categorized and systematized  
-- How simple improvements can scale across environments  
-
----
-
-## Note
-This space is mainly a record of observations, thoughts, and structured learning around security problems — not a collection of finished answers.
+This space is a record of observations and experiments aimed at building a more secure digital environment.
