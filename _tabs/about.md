@@ -15,7 +15,7 @@ Problem discovery → Structuring → Automation → Generalization
 This space is a record of observations and experiments aimed at building a more secure digital environment.
 
 
-📫 Contact
-E-mail: mobsizanin@gmail.com
-GitHub: @mobsizanin
-Blog: mobsizanin.github.io
+# 📫 Contact
+- E-mail: mobsizanin@gmail.com
+- GitHub: @mobsizanin
+- Blog: mobsizanin.github.io
